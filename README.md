@@ -234,7 +234,7 @@ Integración de diversos protocolos para asegurar la comunicación eficiente ent
     <tr>
       <td><b>Felipe de Jesús García García</b></td>
       <td>A01705893</td>
-      <td>Creación de carcasa y componentes 3D</td>
+      <td>Construcción y modelación en 3D</td>
     </tr>
     <tr>
       <td><b>Alfonso Solís Díaz</b></td>
