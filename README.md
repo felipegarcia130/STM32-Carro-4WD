@@ -1,7 +1,5 @@
 # 🚜 STM32-Carro-4WD: Sistema de Navegación Autónoma para Agricultura de Precisión
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/felipegarcia130/STM32-Carro-4WD/main/assets/tractor.jpg" alt="Tractor Autónomo" width="600px">
   
   <p><em>Plataforma robótica inteligente para navegación agrícola autónoma y de alta precisión</em></p>
   
@@ -232,16 +230,8 @@ Alternativamente, puede abrir el proyecto directamente en STM32CubeIDE:
   <img src="https://github.com/user-attachments/assets/5325e312-b3e7-4d97-bb65-43edb048626d" width="500px">
 
 
-  <p><em>Tractor ensamblado con carcasa personalizada y electrónica integrada.</em></p>
+  <p><em>Tractor ensamblado y electrónica integrada.</em></p>
   
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/felipegarcia130/STM32-Carro-4WD/main/assets/electronics.jpg" width="200px"><br><em>Electrónica embebida</em></td>
-      <td><img src="https://raw.githubusercontent.com/felipegarcia130/STM32-Carro-4WD/main/assets/field-test.jpg" width="200px"><br><em>Pruebas de campo</em></td>
-      <td><img src="https://raw.githubusercontent.com/felipegarcia130/STM32-Carro-4WD/main/assets/waypoints.jpg" width="200px"><br><em>Trazado de waypoints</em></td>
-    </tr>
-  </table>
-</div>
 
 ## 📊 Métricas Finales
 
