@@ -229,7 +229,9 @@ Alternativamente, puede abrir el proyecto directamente en STM32CubeIDE:
 ## 📷 Galería del Proyecto
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/5325e312-b3e7-4d97-bb65-43edb048626d)
+  <img src="https://github.com/user-attachments/assets/5325e312-b3e7-4d97-bb65-43edb048626d" width="500px">
+</div>
+
 
   <p><em>Tractor ensamblado con carcasa personalizada y electrónica integrada.</em></p>
   
