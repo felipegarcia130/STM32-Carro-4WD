@@ -1,8 +1,6 @@
 # 🚜 STM32-Carro-4WD: Sistema de Navegación Autónoma para Agricultura de Precisión
 
   
-  <p><em>Plataforma robótica inteligente para navegación agrícola autónoma y de alta precisión</em></p>
-  
   [![GitHub stars](https://img.shields.io/github/stars/felipegarcia130/STM32-Carro-4WD?style=social)](https://github.com/felipegarcia130/STM32-Carro-4WD/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/felipegarcia130/STM32-Carro-4WD?style=social)](https://github.com/felipegarcia130/STM32-Carro-4WD/network/members)
   [![GitHub issues](https://img.shields.io/github/issues/felipegarcia130/STM32-Carro-4WD)](https://github.com/felipegarcia130/STM32-Carro-4WD/issues)
