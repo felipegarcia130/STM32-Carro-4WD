@@ -260,7 +260,7 @@ Alternativamente, puede abrir el proyecto directamente en STM32CubeIDE:
   </a>
   
   <a href="https://drive.google.com/file/d/1VipUzo-c-BnRVilcmz3iSH7LOjSFaA0G/view?usp=sharing" target="_blank">
-    <img src="https://raw.githubusercontent.com/felipegarcia130/STM32-Carro-4WD/main/assets/video-thumbnail.jpg" width="450px" alt="Miniatura del video">
+   
   </a>
 </div>
 
